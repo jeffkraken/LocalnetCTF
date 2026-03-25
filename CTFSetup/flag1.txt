@@ -1,0 +1,15 @@
+Congratulations on finding the first flag.
+
+flag{Q2VudHJpcSBBbHVtbmkgTmlnaHQgQ1RG}
+
+If you screenshot, note, or copy down the flag show above, you will have COMPLETED the Centriq Alumni Event CTF.
+
+At this point you could stop working on the LOCALNET CTF and:
+- Network with other alumni
+- Check out the other CTFs
+- Drink some much deserved (and probably needed) water
+
+However, if you're interested in diving deeper...
+there are some other files that you may be interested in.
+The SMBv1_traffic.pcap holds a path to compromising a user account through the use of Wireshark or other pcap-reading tools.
+The decode.ps1 uses basic cryptography as well as NTFS permissions to block a path to an Administrative account.
